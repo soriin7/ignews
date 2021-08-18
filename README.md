@@ -1,4 +1,4 @@
-# moveit
+# Ignews
 Projeto Ignews Desenvolvido no bootcamp de React.js da Rocketseat
 
   O Ignews tem como objetivo compartilhar informações referentes a tecnologia React.js por meio de postagens de texto.
