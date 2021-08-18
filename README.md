@@ -17,7 +17,7 @@ Projeto Ignews Desenvolvido no bootcamp de React.js da Rocketseat
   Ao ingressar na aplicação o usuário se identificará com a pagina inicial da aplicação, onde é possivel entender sobre o que a aplicação oferece, adquirir uma licença para
   visualização completa das postagens e se inscrever na aplicação utilizando o github.!
   
-  [ig1](https://user-images.githubusercontent.com/68926751/129817220-72b0dae5-e1f9-4ff9-a3b9-4d42c56bad94.png)
+  https://user-images.githubusercontent.com/68926751/129817220-72b0dae5-e1f9-4ff9-a3b9-4d42c56bad94.png
 
   A página de Posts lista todos os posts disponiveis para visualização.
   
